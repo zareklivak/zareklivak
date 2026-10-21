@@ -14,12 +14,6 @@
 | **[accountiq](https://github.com/zareklivak/accountiq)** | Digital sales room + AE intelligence console: buyer engagement flows into explainable deal signals (momentum, health, new stakeholders) and a grounded meeting-prep brief | Next.js · Redis · Claude · Jest |
 | **[signal-outbound-playbook](https://github.com/zareklivak/signal-outbound-playbook)** | A full signal-based outbound motion: intent thesis, lead qualification (with rejects), a 6-touch multichannel sequence, and the system to run it weekly at 10x | Strategy · systems design |
 | **[cress-energy-watch](https://github.com/zareklivak/cress-energy-watch)** | Utility-cost watchdog for resort properties: upload the gas sheet or bill PDFs, get explained, dollar-ranked anomaly flags and a next step for each, with a 3D site map | React · Three.js · Claude · Vitest |
-| **[claude-skills](https://github.com/zareklivak/claude-skills)** | Workspace-adaptive Claude Code skills for start/end-of-session operations | Claude Code |
 
-### How I build
-
-- **Deterministic first, LLM on top.** Rules compute the signal; the model explains it. If the model can't cite it, it doesn't say it.
-- **Humans approve the writes.** Agents read freely and *propose* actions; a person clicks Approve before anything touches a prospect's inbox or the CRM.
-- **The docs are not the API.** I verify every integration live and write down where reality differs.
 
 **Stack I reach for:** TypeScript / Next.js · Python · Postgres (Supabase) · Claude API · Apollo · Instantly · Clay-style enrichment waterfalls · Slack apps · Vercel
