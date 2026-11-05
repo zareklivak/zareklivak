@@ -1,9 +1,3 @@
-### Hi, I'm Zarek 
-
-**GTM engineer.** I build the systems behind pipeline: signal-based prospecting, outbound infrastructure that runs itself, and AI agents that sellers can actually trust, grounded in real data, cited, and gated by a human where it matters.
-
----
-
 ### Featured work
 
 | Project | What it does | Built with |
